@@ -21,34 +21,34 @@
         </div>
       </div>
 
-      <div class="container mx-auto px-4 relative z-10">
-        <div class="grid lg:grid-cols-2 gap-12 items-center">
+      <div class="container mx-auto px-4 sm:px-6 lg:px-4 relative z-10">
+        <div class="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
           <div class="text-center lg:text-left">
             <!-- Animated Title with Typewriter Effect -->
             <div class="mb-6">
-              <h1 class="text-6xl font-bold text-white animate-fade-in-up">
+              <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white animate-fade-in-up leading-tight">
                 <span class="typing-animation block" data-text="Амгаланбаярын Амартүвшин">Амгаланбаярын Амартүвшин</span>
               </h1>
             </div>
             
             <!-- Animated Subtitle -->
-            <p class="text-2xl mb-4 max-w-3xl text-[#E0E2DB] animate-fade-in-up animation-delay-500">
+            <p class="text-lg sm:text-xl md:text-2xl mb-4 max-w-3xl text-[#E0E2DB] animate-fade-in-up animation-delay-500">
               Улаанбаатар хотын Засаг даргын орлогч
             </p>
             
             <!-- Animated Description -->
-            <p class="text-lg mb-8 max-w-2xl text-[#D2D4C8] animate-fade-in-up animation-delay-1000">
+            <p class="text-base sm:text-lg mb-8 max-w-2xl text-[#D2D4C8] animate-fade-in-up animation-delay-1000 leading-relaxed">
               Нийгмийн салбар, ногоон хөгжил болон агаар, орчны бохирдлын асуудал хариуцна
             </p>
             
             <!-- Animated Buttons -->
             <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start animate-fade-in-up animation-delay-1500">
-              <NuxtLink to="/about" class="group bg-[#E0E2DB] text-[#8B2635] px-8 py-4 rounded-xl font-semibold hover:bg-[#D2D4C8] transition-all duration-500 transform hover:scale-110 hover:rotate-2 shadow-2xl relative overflow-hidden">
+              <NuxtLink to="/about" class="group bg-[#E0E2DB] text-[#8B2635] px-6 py-3 sm:px-8 sm:py-4 rounded-xl font-semibold hover:bg-[#D2D4C8] transition-all duration-500 transform hover:scale-110 hover:rotate-2 shadow-2xl relative overflow-hidden text-center">
                 <span class="relative z-10">Намтар танилцах</span>
                 <div class="absolute inset-0 bg-gradient-to-r from-[#8B2635] to-[#2E3532] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left"></div>
                 <span class="absolute inset-0 flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-20">Намтар танилцах</span>
               </NuxtLink>
-              <NuxtLink to="/projects" class="group border-2 border-[#E0E2DB] text-[#E0E2DB] px-8 py-4 rounded-xl font-semibold hover:bg-[#E0E2DB] hover:text-[#8B2635] transition-all duration-500 transform hover:scale-110 hover:-rotate-2 shadow-2xl relative overflow-hidden">
+              <NuxtLink to="/projects" class="group border-2 border-[#E0E2DB] text-[#E0E2DB] px-6 py-3 sm:px-8 sm:py-4 rounded-xl font-semibold hover:bg-[#E0E2DB] hover:text-[#8B2635] transition-all duration-500 transform hover:scale-110 hover:-rotate-2 shadow-2xl relative overflow-hidden text-center">
                 <span class="relative z-10">Төслүүд үзэх</span>
                 <div class="absolute inset-0 bg-[#E0E2DB] transform scale-y-0 group-hover:scale-y-100 transition-transform duration-500 origin-bottom"></div>
                 <span class="absolute inset-0 flex items-center justify-center text-[#8B2635] opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-20">Төслүүд үзэх</span>
@@ -71,7 +71,7 @@
                 <img 
                   src="/assets/portrait1.jpg" 
                   alt="Амгаланбаярын Амартүвшин" 
-                  class="relative w-80 h-96 object-cover rounded-2xl shadow-2xl border-4 border-[#E0E2DB]/50 transform transition-all duration-700 group-hover:shadow-3xl group-hover:border-[#E0E2DB]"
+                  class="relative w-64 h-80 sm:w-72 sm:h-[22rem] md:w-80 md:h-96 object-cover rounded-2xl shadow-2xl border-4 border-[#E0E2DB]/50 transform transition-all duration-700 group-hover:shadow-3xl group-hover:border-[#E0E2DB]"
                 >
                 
                 <!-- Animated Badge -->
