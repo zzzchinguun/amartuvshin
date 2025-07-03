@@ -19,7 +19,7 @@ export default defineNuxtConfig({
   
   // GitHub Pages configuration
   app: {
-    baseURL: process.env.NODE_ENV === 'production' ? '/hunnam-clone/' : '/',
-    cdnURL: process.env.NODE_ENV === 'production' ? '/hunnam-clone/' : '/'
+    baseURL: process.env.NODE_ENV === 'production' ? '/amartuvshin/' : '/',
+    cdnURL: process.env.NODE_ENV === 'production' ? '/amartuvshin/' : '/'
   }
 })
