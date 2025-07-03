@@ -129,7 +129,7 @@
               <h3 class="text-2xl font-bold text-[#8B2635] mb-4">Боловсролын асуудлаар хэлэлцүүлэг</h3>
               <p class="text-[#2E3532] mb-4">О.Солонго: Ханийн минь өгсөн хамгийн нандин бэлэг. Эрүүл боловсролтой Монгол Улсын ирээдүйн төлөө #ЗА гэж хэлцгээе</p>
               <div class="flex items-center justify-between">
-                <span class="bg-[#8B2635]/10 text-[#8B2635] px-4 py-2 rounded-full text-sm font-semibold">4 Октябрь 2024</span>
+                <span class="bg-[#8B2635]/10 text-[#8B2635] px-4 py-2 rounded-full text-sm font-semibold">2024 оны 10-р сарын 4</span>
                 <div class="flex items-center space-x-2 text-[#2E3532]">
                   <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M10 12l-6-6 1.5-1.5L10 9l4.5-4.5L16 6l-6 6z"/>
@@ -161,7 +161,7 @@
               <h3 class="text-2xl font-bold text-[#2E3532] mb-4">Дэд бүтцийн хөгжил</h3>
               <p class="text-[#2E3532] mb-4">48.4 км шинэ зам, 846.5 метр гүүр, явган хүн дугуйчдын 39 км замын бүтээн байгуулалтын тайлан</p>
               <div class="flex items-center justify-between">
-                <span class="bg-[#2E3532]/10 text-[#2E3532] px-4 py-2 rounded-full text-sm font-semibold">30 Июнь 2024</span>
+                <span class="bg-[#2E3532]/10 text-[#2E3532] px-4 py-2 rounded-full text-sm font-semibold">2024 оны 6-р сарын 30</span>
                 <div class="flex items-center space-x-2 text-[#2E3532]">
                   <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M10 12l-6-6 1.5-1.5L10 9l4.5-4.5L16 6l-6 6z"/>
@@ -197,7 +197,7 @@
                   Хан-Уул дүүргийн 24-р хорооны шинэ сургууль 300 гаруй хүүхдийг хүлээн авч, боловсролын чанарыг дээшлүүлэх чухал алхам болж байна.
                 </p>
                 <div class="flex items-center justify-between">
-                  <span class="bg-gradient-to-r from-[#8B2635] to-[#2E3532] text-white px-6 py-3 rounded-full font-semibold">30 Июнь 2024</span>
+                  <span class="bg-gradient-to-r from-[#8B2635] to-[#2E3532] text-white px-6 py-3 rounded-full font-semibold">2024 оны 6-р сарын 30</span>
                   <NuxtLink to="/news" class="text-[#8B2635] hover:text-[#2E3532] font-semibold flex items-center space-x-2 group-hover:translate-x-2 transition-transform duration-300">
                     <span>Дэлгэрэнгүй</span>
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

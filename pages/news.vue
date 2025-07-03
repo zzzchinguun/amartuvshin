@@ -25,7 +25,7 @@
             <div class="bg-white rounded-2xl shadow-2xl overflow-hidden border-4 border-[#8B2635]/20 hover:border-[#8B2635]/50 transition-all duration-500 transform hover:-translate-y-2">
               <div class="bg-gradient-to-r from-[#8B2635] to-[#2E3532] text-white p-6">
                 <h3 class="text-xl font-bold mb-2">Хүүхдийн хоолны чанар сайжруулах</h3>
-                <p class="text-[#E0E2DB] text-sm">4 October 2024</p>
+                <p class="text-[#E0E2DB] text-sm">2024 оны 10-р сарын 4</p>
               </div>
               <div class="p-6">
                 <div class="aspect-w-9 aspect-h-16 mb-4">
@@ -56,7 +56,7 @@
             <div class="bg-white rounded-2xl shadow-2xl overflow-hidden border-4 border-[#8B2635]/20 hover:border-[#8B2635]/50 transition-all duration-500 transform hover:-translate-y-2">
               <div class="bg-gradient-to-r from-[#2E3532] to-[#8B2635] text-white p-6">
                 <h3 class="text-xl font-bold mb-2">Дэд бүтцийн хөгжлийн төлөвлөгөө</h3>
-                <p class="text-[#E0E2DB] text-sm">30 June 2025</p>
+                <p class="text-[#E0E2DB] text-sm">2024 оны 6-р сарын 30</p>
               </div>
               <div class="p-6">
                 <div class="aspect-w-16 aspect-h-9 mb-4">
@@ -125,7 +125,7 @@
                     <div class="text-sm text-[#2E3532]">Хороо</div>
                   </div>
                 </div>
-                <p class="text-sm text-[#2E3532] mt-4">30 June at 11:07</p>
+                <p class="text-sm text-[#2E3532] mt-4">2024 оны 6-р сарын 30, 11:07</p>
               </div>
               <div class="p-4 lg:p-8 flex items-center">
                 <iframe 
