@@ -1,75 +1,67 @@
-# Nuxt Minimal Starter
+# Амгаланбаярын Амартүвшин - Албан ёсны вэбсайт
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Улаанбаатар хотын Засаг даргын орлогчийн албан ёсны вэбсайт.
 
-## Setup
+## 🌐 Live Website
+**https://zzzchinguun.github.io/amartuvshin/**
 
-Make sure to install dependencies:
+## 📋 Тухай
+Энэхүү вэбсайт нь Амгаланбаярын Амартүвшины намтар, үйл ажиллагаа, төслүүд болон харьцах мэдээллийг агуулна.
 
+### Үндсэн хэсгүүд:
+- **Нүүр хуудас**: Танилцуулга, статистик, сүүлийн үеийн үйл ажиллагаа
+- **Намтар**: Боловсрол, карьер, туршлага
+- **Ажлын арга барил**: Өдөр тутмын горим, зарчим, хэрэгсэл
+- **Төслүүд**: Хэрэгжүүлсэн болон хэрэгжиж буй төслүүд
+- **Алсын хараа**: 20 минутын хот, хотын бүтэц, боловсролын бодлого
+- **Мэдээ**: Facebook бичлэгүүд, сүүлийн үеийн мэдээлэл
+- **Холбоо барих**: Албан ёсны мэдээлэл, социал сүлжээ
+
+## 🛠 Технологи
+- **Nuxt.js 3** - Vue.js фреймворк
+- **Tailwind CSS** - Дизайн систем
+- **TypeScript** - Програмчлалын хэл
+- **GitHub Pages** - Хостинг
+- **GitHub Actions** - Автомат deployment
+
+## 🎨 Дизайн
+- **Үндсэн өнгө**: #8B2635 (улаан)
+- **Туслах өнгө**: #2E3532, #E0E2DB, #D2D4C8
+- **Анимаци**: Дэвшилтэт CSS анимаци, скролл эффект
+- **Responsive**: Бүх төхөөрөмжид тохирсон
+
+## 📱 Социал сүлжээ
+- **Facebook**: https://www.facebook.com/A.Amartuvshinn
+- **Instagram**: https://www.instagram.com/amartuvshnn/
+- **Twitter/X**: https://x.com/Amartuvshnn
+
+## 🚀 Development
+
+### Суулгах
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
+### Хөгжүүлэлтийн сервер
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
+### Статик сайт үүсгэх
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+npm run generate
 ```
 
-Locally preview production build:
-
+### Preview
 ```bash
-# npm
 npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 📄 License
+MIT License
+
+---
+
+**Амгаланбаярын Амартүвшин**  
+Улаанбаатар хотын Засаг даргын орлогч  
+Нийгмийн салбар, ногоон хөгжил, орчны асуудал хариуцна
