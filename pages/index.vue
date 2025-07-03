@@ -114,7 +114,7 @@
             <div class="relative bg-white rounded-3xl shadow-2xl p-8 transform group-hover:scale-105 transition-all duration-500">
               <div class="relative overflow-hidden rounded-2xl mb-6">
                 <iframe 
-                  src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61550661793817%2Fvideos%2F1052864956519002%2F&show_text=false&width=560&t=0" 
+                  src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FA.Amartuvshinn%2Fvideos%2F838986778405135%2F&show_text=false&width=267&t=0" 
                   width="100%" 
                   height="314" 
                   style="border:none;overflow:hidden" 
@@ -146,7 +146,7 @@
             <div class="relative bg-white rounded-3xl shadow-2xl p-8 transform group-hover:scale-105 transition-all duration-500">
               <div class="relative overflow-hidden rounded-2xl mb-6">
                 <iframe 
-                  src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61550661793817%2Fvideos%2F1588068001897734%2F&show_text=false&width=560&t=0" 
+                  src="https://www.facebook.com/plugins/video.php?height=293&href=https%3A%2F%2Fwww.facebook.com%2FA.Amartuvshinn%2Fvideos%2F1363694418071964%2F&show_text=false&width=560&t=0" 
                   width="100%" 
                   height="314" 
                   style="border:none;overflow:hidden" 
@@ -180,7 +180,7 @@
             <div class="grid lg:grid-cols-2 gap-8 items-center">
               <div class="relative overflow-hidden rounded-2xl">
                 <iframe 
-                  src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61550661793817%2Fvideos%2F459105896991012%2F&show_text=false&width=560&t=0" 
+                  src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FA.Amartuvshinn%2Fvideos%2F4136586769999388%2F&show_text=false&width=267&t=0" 
                   width="100%" 
                   height="314" 
                   style="border:none;overflow:hidden" 
