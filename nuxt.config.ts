@@ -5,5 +5,21 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss'
   ],
-  css: ['~/assets/css/main.css']
+  css: ['~/assets/css/main.css'],
+  
+  // Enable static site generation
+  nitro: {
+    prerender: {
+      routes: ['/sitemap.xml']
+    }
+  },
+  
+  // GitHub Pages configuration
+  app: {
+    baseURL: '/amartuvshin/', // Must match your repository name
+    buildAssetsDir: 'assets'
+  },
+  
+  // Generate static site
+  ssr: false // Disable server-side rendering for GitHub Pages
 })
