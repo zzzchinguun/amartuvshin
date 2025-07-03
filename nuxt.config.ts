@@ -14,12 +14,6 @@ export default defineNuxtConfig({
     }
   },
   
-  // GitHub Pages configuration
-  app: {
-    baseURL: '/amartuvshin/', // Must match your repository name
-    buildAssetsDir: 'assets'
-  },
-  
   // Generate static site
   ssr: false // Disable server-side rendering for GitHub Pages
 })
