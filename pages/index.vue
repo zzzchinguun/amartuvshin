@@ -100,80 +100,14 @@
       <div class="container mx-auto px-4 relative z-10">
         <div class="text-center mb-16">
           <h2 class="text-5xl font-bold text-[#8B2635] mb-6 animate-fade-in-up">
-            Үйл ажиллагааны онцлох бичлэг
+            Онцлох үйл ажиллагаа
           </h2>
           <p class="text-xl text-[#2E3532] max-w-3xl mx-auto animate-fade-in-up animation-delay-300">
-            Хамгийн сүүлийн үеийн чухал үйл ажиллагаа, хэлэлцүүлэг, төслийн явцыг үзээрэй
+            Хамгийн сүүлийн үеийн чухал төсөл, хэрэгжүүлсэн амжилтыг үзээрэй
           </p>
         </div>
 
-        <div class="grid lg:grid-cols-2 gap-12 mb-16">
-          <!-- Featured Video -->
-          <div class="group relative">
-            <div class="absolute inset-0 bg-gradient-to-r from-[#8B2635] to-[#2E3532] rounded-3xl transform rotate-1 group-hover:rotate-2 transition-transform duration-500 opacity-20"></div>
-            <div class="relative bg-white rounded-3xl shadow-2xl p-8 transform group-hover:scale-105 transition-all duration-500">
-              <div class="relative overflow-hidden rounded-2xl mb-6">
-                <iframe 
-                  src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FA.Amartuvshinn%2Fvideos%2F838986778405135%2F&show_text=false&width=267&t=0" 
-                  width="100%" 
-                  height="314" 
-                  style="border:none;overflow:hidden" 
-                  scrolling="no" 
-                  frameborder="0" 
-                  allowfullscreen="true" 
-                  allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-                  class="transform group-hover:scale-105 transition-transform duration-700"
-                ></iframe>
-                <div class="absolute inset-0 bg-gradient-to-t from-[#8B2635]/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-              </div>
-              <h3 class="text-2xl font-bold text-[#8B2635] mb-4">Боловсролын асуудлаар хэлэлцүүлэг</h3>
-              <p class="text-[#2E3532] mb-4">О.Солонго: Ханийн минь өгсөн хамгийн нандин бэлэг. Эрүүл боловсролтой Монгол Улсын ирээдүйн төлөө #ЗА гэж хэлцгээе</p>
-              <div class="flex items-center justify-between">
-                <span class="bg-[#8B2635]/10 text-[#8B2635] px-4 py-2 rounded-full text-sm font-semibold">2024 оны 10-р сарын 4</span>
-                <div class="flex items-center space-x-2 text-[#2E3532]">
-                  <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M10 12l-6-6 1.5-1.5L10 9l4.5-4.5L16 6l-6 6z"/>
-                  </svg>
-                  <span class="text-sm">Facebook-с</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Second Video -->
-          <div class="group relative">
-            <div class="absolute inset-0 bg-gradient-to-r from-[#2E3532] to-[#8B2635] rounded-3xl transform -rotate-1 group-hover:-rotate-2 transition-transform duration-500 opacity-20"></div>
-            <div class="relative bg-white rounded-3xl shadow-2xl p-8 transform group-hover:scale-105 transition-all duration-500">
-              <div class="relative overflow-hidden rounded-2xl mb-6">
-                <iframe 
-                  src="https://www.facebook.com/plugins/video.php?height=293&href=https%3A%2F%2Fwww.facebook.com%2FA.Amartuvshinn%2Fvideos%2F1363694418071964%2F&show_text=false&width=560&t=0" 
-                  width="100%" 
-                  height="314" 
-                  style="border:none;overflow:hidden" 
-                  scrolling="no" 
-                  frameborder="0" 
-                  allowfullscreen="true" 
-                  allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-                  class="transform group-hover:scale-105 transition-transform duration-700"
-                ></iframe>
-                <div class="absolute inset-0 bg-gradient-to-t from-[#2E3532]/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-              </div>
-              <h3 class="text-2xl font-bold text-[#2E3532] mb-4">Дэд бүтцийн хөгжил</h3>
-              <p class="text-[#2E3532] mb-4">48.4 км шинэ зам, 846.5 метр гүүр, явган хүн дугуйчдын 39 км замын бүтээн байгуулалтын тайлан</p>
-              <div class="flex items-center justify-between">
-                <span class="bg-[#2E3532]/10 text-[#2E3532] px-4 py-2 rounded-full text-sm font-semibold">2024 оны 6-р сарын 30</span>
-                <div class="flex items-center space-x-2 text-[#2E3532]">
-                  <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                    <path d="M10 12l-6-6 1.5-1.5L10 9l4.5-4.5L16 6l-6 6z"/>
-                  </svg>
-                  <span class="text-sm">Facebook-с</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Third Video - Full Width -->
+        <!-- Featured Video - Full Width -->
         <div class="group relative max-w-4xl mx-auto">
           <div class="absolute inset-0 bg-gradient-to-r from-[#8B2635] via-[#2E3532] to-[#8B2635] rounded-3xl transform rotate-0.5 group-hover:rotate-1 transition-transform duration-500 opacity-20"></div>
           <div class="relative bg-white rounded-3xl shadow-2xl p-8 transform group-hover:scale-102 transition-all duration-500">
@@ -196,6 +130,16 @@
                 <p class="text-[#2E3532] mb-6 text-lg leading-relaxed">
                   Хан-Уул дүүргийн 24-р хорооны шинэ сургууль 300 гаруй хүүхдийг хүлээн авч, боловсролын чанарыг дээшлүүлэх чухал алхам болж байна.
                 </p>
+                <div class="grid grid-cols-2 gap-4 mb-6">
+                  <div class="bg-[#8B2635]/10 p-4 rounded-lg text-center">
+                    <div class="text-2xl font-bold text-[#8B2635]">300+</div>
+                    <div class="text-sm text-[#2E3532]">Суралцагч</div>
+                  </div>
+                  <div class="bg-[#2E3532]/10 p-4 rounded-lg text-center">
+                    <div class="text-2xl font-bold text-[#2E3532]">24-р</div>
+                    <div class="text-sm text-[#2E3532]">Хороо</div>
+                  </div>
+                </div>
                 <div class="flex items-center justify-between">
                   <span class="bg-gradient-to-r from-[#8B2635] to-[#2E3532] text-white px-6 py-3 rounded-full font-semibold">2024 оны 6-р сарын 30</span>
                   <NuxtLink to="/news" class="text-[#8B2635] hover:text-[#2E3532] font-semibold flex items-center space-x-2 group-hover:translate-x-2 transition-transform duration-300">
@@ -206,6 +150,51 @@
                   </NuxtLink>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Additional Highlights Grid -->
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
+          <!-- Highlight Card 1 -->
+          <div class="group relative">
+            <div class="absolute inset-0 bg-gradient-to-r from-[#8B2635] to-[#2E3532] rounded-2xl transform rotate-1 group-hover:rotate-2 transition-transform duration-500 opacity-20"></div>
+            <div class="relative bg-white rounded-2xl shadow-xl p-6 transform group-hover:scale-105 transition-all duration-500">
+              <div class="w-12 h-12 bg-gradient-to-r from-[#8B2635] to-[#2E3532] rounded-lg mb-4 flex items-center justify-center">
+                <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3z"/>
+                </svg>
+              </div>
+              <h4 class="text-xl font-bold text-[#8B2635] mb-2">Боловсролын реформ</h4>
+              <p class="text-[#2E3532] text-sm">Хүүхдийн хоолны чанарыг сайжруулах бодлого боловсруулж байна</p>
+            </div>
+          </div>
+          
+          <!-- Highlight Card 2 -->
+          <div class="group relative">
+            <div class="absolute inset-0 bg-gradient-to-r from-[#2E3532] to-[#8B2635] rounded-2xl transform -rotate-1 group-hover:-rotate-2 transition-transform duration-500 opacity-20"></div>
+            <div class="relative bg-white rounded-2xl shadow-xl p-6 transform group-hover:scale-105 transition-all duration-500">
+              <div class="w-12 h-12 bg-gradient-to-r from-[#2E3532] to-[#8B2635] rounded-lg mb-4 flex items-center justify-center">
+                <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                </svg>
+              </div>
+              <h4 class="text-xl font-bold text-[#2E3532] mb-2">Дэд бүтцийн хөгжил</h4>
+              <p class="text-[#2E3532] text-sm">48.4 км зам, 846.5 метр гүүрийн бүтээн байгуулалт</p>
+            </div>
+          </div>
+          
+          <!-- Highlight Card 3 -->
+          <div class="group relative md:col-span-2 lg:col-span-1">
+            <div class="absolute inset-0 bg-gradient-to-r from-[#8B2635] via-[#2E3532] to-[#8B2635] rounded-2xl transform rotate-0.5 group-hover:rotate-1 transition-transform duration-500 opacity-20"></div>
+            <div class="relative bg-white rounded-2xl shadow-xl p-6 transform group-hover:scale-105 transition-all duration-500">
+              <div class="w-12 h-12 bg-gradient-to-r from-[#8B2635] via-[#2E3532] to-[#8B2635] rounded-lg mb-4 flex items-center justify-center">
+                <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M4 4a2 2 0 00-2 2v1h16V6a2 2 0 00-2-2H4zM18 9H2v5a2 2 0 002 2h12a2 2 0 002-2V9zM4 13a1 1 0 011-1h1a1 1 0 110 2H5a1 1 0 01-1-1zm5-1a1 1 0 100 2h1a1 1 0 100-2H9z"/>
+                </svg>
+              </div>
+              <h4 class="text-xl font-bold text-[#8B2635] mb-2">Цаашдын төлөвлөгөө</h4>
+              <p class="text-[#2E3532] text-sm">20 минутын хотын концепци, ногоон хөгжлийн бодлого</p>
             </div>
           </div>
         </div>

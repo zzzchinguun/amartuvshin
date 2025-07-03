@@ -15,5 +15,11 @@ export default defineNuxtConfig({
   },
   
   // Generate static site
-  ssr: false // Disable server-side rendering for GitHub Pages
+  ssr: false, // Disable server-side rendering for GitHub Pages
+  
+  // GitHub Pages configuration
+  app: {
+    baseURL: process.env.NODE_ENV === 'production' ? '/hunnam-clone/' : '/',
+    cdnURL: process.env.NODE_ENV === 'production' ? '/hunnam-clone/' : '/'
+  }
 })
