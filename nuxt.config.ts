@@ -20,6 +20,11 @@ export default defineNuxtConfig({
   // Custom domain configuration
   app: {
     baseURL: '/',
-    cdnURL: '/'
+    cdnURL: '/',
+    head: {
+      link: [
+        { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }
+      ]
+    }
   }
 })
