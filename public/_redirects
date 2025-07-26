@@ -1,0 +1,6 @@
+# Redirects for amartuvshin.mn
+# Ensure www subdomain redirects to root domain
+www.amartuvshin.mn https://amartuvshin.mn 301
+
+# Handle any potential old GitHub Pages URLs
+/amartuvshin/* https://amartuvshin.mn/:splat 301 

@@ -15,11 +15,11 @@ export default defineNuxtConfig({
   },
   
   // Generate static site
-  ssr: false, // Disable server-side rendering for GitHub Pages
+  ssr: false, // Disable server-side rendering for static hosting
   
-  // GitHub Pages configuration
+  // Custom domain configuration
   app: {
-    baseURL: process.env.NODE_ENV === 'production' ? '/amartuvshin/' : '/',
-    cdnURL: process.env.NODE_ENV === 'production' ? '/amartuvshin/' : '/'
+    baseURL: '/',
+    cdnURL: '/'
   }
 })
